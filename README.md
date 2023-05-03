@@ -1,5 +1,4 @@
-https://vimeoblog.imgix.net/2020/02/Blog-Header_2X.jpg?auto=format&fit=max&w=1280
-[![MasterHead](https://vimeoblog.imgix.net/2020/02/Blog-Header_2X.jpg?auto=format&fit=max&w=1280)]
+![MasterHead](https://vimeoblog.imgix.net/2020/02/Blog-Header_2X.jpg?auto=format&fit=max&w=1280)
 <h1 align="center">Hi 👋, I'm Andres Rodriguez</h1>
 <h3 align="center">A curious Data Analyst from Bolivia</h3>
 <img align="right" alt="Analyzing", width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
