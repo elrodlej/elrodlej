@@ -1,7 +1,7 @@
 ![MasterHead](https://vimeoblog.imgix.net/2020/02/Blog-Header_2X.jpg?auto=format&fit=max&w=1280)
 <h1 align="center">Hi 👋, I'm Andres Rodriguez</h1>
 <h3 align="center">A curious Data Analyst from Bolivia</h3>
-<img align="right" alt="Analyzing", width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
+<img align="right" alt="Coding", width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elrodlej&label=Profile%20views&color=0e75b6&style=flat" alt="elrodlej" /> </p>
 
