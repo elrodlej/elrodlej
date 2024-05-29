@@ -1,17 +1,15 @@
 ![MasterHead](https://vimeoblog.imgix.net/2020/02/Blog-Header_2X.jpg?auto=format&fit=max&w=1280)
 <h1 align="center">Hi 👋, I'm Andres Rodriguez</h1>
-<h3 align="center">A curious Data Analyst from Bolivia</h3>
+<h3 align="center">A curious Data Engineer from Bolivia</h3>
 <img align="right" alt="Coding", width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elrodlej&label=Profile%20views&color=0e75b6&style=flat" alt="elrodlej" /> </p>
 
 <p align="left"> <a href="https://twitter.com/andresrlejsek" target="blank"><img src="https://img.shields.io/twitter/follow/andresrlejsek?logo=twitter&style=for-the-badge" alt="andresrlejsek" /></a> </p>
 
-- 🔭 I’m currently working on **Matplotlib Class**
+- 🔭 I’m currently working on **Data Analysis and Engineering**
 
-- 🌱 I’m currently learning **SQL and Python**
-
-- 📝 I regularly write articles on [andresrodriguez.hashnode.dev](andresrodriguez.hashnode.dev)
+- 🌱 I’m currently learning **Data Engineering with Data Bricks**
 
 - 📫 How to reach me **elrodlej@gmail.com**
 
